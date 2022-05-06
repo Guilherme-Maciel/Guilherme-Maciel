@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/guilherme-maciel-5055321a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://proguyzo.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
     
-  ![Snake animation](https://github.com/Guilherme-Maciel/Guilherme-Maciel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Guilherme-Maciel/Guilherme-Maciel/)
 </div>
 
 
