@@ -1,6 +1,9 @@
 ## Hello! My name is Guilherme Maciel! 😁
 
 <!--STATUS GITHUB-->
+  - 📚 <b>Nowadays, I'm studying:</b> Laravel and Python
+  - 👨‍💼💻 Woking at <b>Plusoft DTM</b> as <b>Intern</b> 
+##
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Maciel&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -8,7 +11,7 @@
     
 <!--TECNOLOGIAS-->
 </div>
-  <div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +22,7 @@
 </div>
 
 ##
-  
+
 <!--SOCIAL MEDIA: https://dev.to/envoy_/150-badges-for-github-pnk-->
 <div align="center"
   <a href = "mailto:guilherme5932.ms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
