@@ -2,7 +2,7 @@
 
 <!--STATUS GITHUB-->
   - 📚 <b>Nowadays, I'm studying:</b> Laravel, ASP.NET, C# and Python
-  - 👨‍💼💻 Woking at <b>Plusoft DTM</b> as <b>Intern</b> 
+  - 👨‍💼💻 Working at <b>Plusoft DTM</b> as <b>Intern</b> 
 ##
 <div align="center">
   <a href="https://github.com/Guilherme-Maciel">
