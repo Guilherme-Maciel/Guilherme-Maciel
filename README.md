@@ -1,7 +1,7 @@
 ## Hello! My name is Guilherme Maciel! 😁
 
 <!--STATUS GITHUB-->
-  - 📚 <b>Nowadays, I'm studying:</b> ReactJS, C# and Python
+  - 📚 <b>Nowadays, I'm studying:</b> ReactJS, C# and Typescript
   - 👨‍💼💻 Working at <b>Plusoft DTM</b> as <b>Intern</b> 
 ##
 <div align="center">
