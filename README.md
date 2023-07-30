@@ -1,7 +1,7 @@
 ## Hello! My name is Guilherme Maciel! 😁
 
 <!--STATUS GITHUB-->
-  - 📚 <b>Nowadays, I'm studying:</b> SOLID architecture, C# and VueJS
+  - 📚 <b>Nowadays, I'm studying:</b> Microservices and Unit/Integrations tests with XUnit
   - 👨‍💼💻 Working at <b>Plusoft DTM</b> as <b>Intern</b> 
 ##
 <div align="center">
