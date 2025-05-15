@@ -1,8 +1,8 @@
 ## Hello! My name is Guilherme Maciel! 😁
 
 <!--STATUS GITHUB-->
-  - 📚 <b>Nowadays, I'm studying:</b> Microservices and Unit/Integrations tests with XUnit
-  - 👨‍💼💻 Working at <b>Plusoft DTM</b> as <b>Intern</b> 
+  - 📚 <b>Nowadays, I'm studying:</b> IaC and Design System
+  - 👨‍💼💻 Working at <b>Plusoft DTM</b> as <b>Full Stack Developer</b> 
 ##
 <div align="center">
   <a href="https://github.com/Guilherme-Maciel">
